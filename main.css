@@ -1,0 +1,15 @@
+body {
+  Background-color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+p { font-family: "Courier New", serif;
+  color: blue ;
+}
+
+img {border-style: double;
+	 width: 250px;
+}
